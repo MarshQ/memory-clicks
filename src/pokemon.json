@@ -8,91 +8,91 @@
     {
       "id": 2,
       "name": "Charmander",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png",
       "clicked": false
     },
     {
       "id": 3,
       "name": "Bulbasaur",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png",
       "clicked": false
     },
     {
       "id": 4,
       "name": "Cyndaquil",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/9/9b/155Cyndaquil.png/250px-155Cyndaquil.png",
       "clicked": false
     },
     {
       "id": 5,
       "name": "Totodile",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/d/df/158Totodile.png/250px-158Totodile.png",
       "clicked": false
     },
     {
       "id": 6,
       "name": "Chikorita",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/b/bf/152Chikorita.png/250px-152Chikorita.png",
       "clicked": false
     },
     {
       "id": 7,
       "name": "Treecko",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/2/2c/252Treecko.png/250px-252Treecko.png",
       "clicked": false
     },
     {
       "id": 8,
       "name": "Mudkip",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/6/60/258Mudkip.png/250px-258Mudkip.png",
       "clicked": false
     },
     {
       "id": 9,
       "name": "Torchic",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/9/91/255Torchic.png/250px-255Torchic.png",
       "clicked": false
     },
     {
       "id": 10,
       "name": "Pikachu",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png",
       "clicked": false
     },
     {
       "id": 11,
       "name": "Pichu",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/b/b9/172Pichu.png/250px-172Pichu.png",
       "clicked": false
     },
     {
       "id": 12,
       "name": "Plusle",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/a/a3/311Plusle.png/250px-311Plusle.png",
       "clicked": false
     },
     {
       "id": 13,
-      "name": "Minum",
-      "image": "",
+      "name": "Minun",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/e/e7/312Minun.png/250px-312Minun.png",
       "clicked": false
     },
     {
       "id": 14,
       "name": "Jigglypuff",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/3/3e/039Jigglypuff.png/250px-039Jigglypuff.png",
       "clicked": false
     },
     {
       "id": 15,
       "name": "Vulpix",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/6/60/037Vulpix.png/250px-037Vulpix.png",
       "clicked": false
     },
     {
       "id": 16,
       "name": "Eevee",
-      "image": "",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
       "clicked": false
     }
   ]
